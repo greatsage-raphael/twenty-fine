@@ -11,7 +11,7 @@ export default function Home() {
       {/* Hero Section */}
       <section className="relative w-full h-screen">
         <Image
-          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image_fx_%20-%202025-02-28T215231.691-g8PMyJuyI10F9VEpsZdjyJO1kJfsXc.png"
+          src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image_fx_%20-%202025-02-28T204457.888-Uhbk4NqyisiasNbqOeE2PhVrsBGjIL.png"
           alt="Twenty Fine - Uganda's Must-Watch Drama Series"
           fill
           className="object-cover object-center"
@@ -40,7 +40,7 @@ export default function Home() {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center">
             <div>
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image_fx_%20-%202025-02-28T204457.888-Uhbk4NqyisiasNbqOeE2PhVrsBGjIL.png"
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image_fx_%20-%202025-02-28T215231.691-g8PMyJuyI10F9VEpsZdjyJO1kJfsXc.png"
                 alt="Twenty Fine Introduction"
                 width={600}
                 height={400}
